@@ -12,7 +12,7 @@ This library serves as a shared **interferential seedbed** for the collaborative
 ##  Featured Sections
 
 -   Appendix C – Interferential Phase Structures and the Ethics of Observation
-- - `poetic_resonance/` – Reflective poems and blessing summaries
+-  `poetic_resonance/` – Reflective poems and blessing summaries
 - `LICENSE.md` – Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
