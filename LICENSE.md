@@ -6,17 +6,22 @@ This repository hosts the reflective and poetic appendix materials of the **Kaso
 
 ```
 kasoku-codex-library/
-├── appendix_c1_codex_voting/
-│   ├── appendix_c1_codex_voting.tex
-│   ├── Appendix_C___Codex_and_Resonance.pdf
-│   ├── voting_matrix_diagram.png
-│   ├── kasoku_symbol_interference.png
-├── poetic_resonance/
-│   ├── blessings_summary_en.tex
-│   ├── C0_reflective_prologue.tex
-└── README.md
+└── appendix_c_release/
+    ├── appendix_c_v1.0.pdf
+    ├── README.md
+    ├── sections/
+    │   ├── prelude_fragment_echo_of_coexistence.tex
+    │   ├── blessings_summary_en.tex
+    │   ├── ...
+    ├── images/
+    │   ├── kasoku_symbol_interference.png
+    │   ├── ...
+    └── poetic_resonance/
+        ├── blessings_summary_en.tex
+        ├── C0_reflective_prologue.tex
+   └── README.md
+   └── LICENSE.md
 ```
-
 ##Licensing Notes
 
 The **default license** for this repository is:  
