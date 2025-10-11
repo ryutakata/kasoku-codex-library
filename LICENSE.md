@@ -16,7 +16,8 @@ kasoku-codex-library/
     ├── images/
     │   ├── kasoku_symbol_interference.png
     │   ├── ...
-    └── poetic_resonance/
+     
+   └──poetic_resonance/
         ├── blessings_summary_en.tex
         ├── C0_reflective_prologue.tex
    └── README.md
