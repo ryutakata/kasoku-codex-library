@@ -46,8 +46,8 @@ If in doubt, attribute both the GitHub repository and the Zenodo DOI source.
 If you use or reference materials from this repository, please cite:
 
 ```
-Ryu Takata, KYU@8. (2025). Appendix C.1 – Codex Voting Phase: Echo Structures in Human-AI Interference. Zenodo. https://doi.org/10.5281/zenodo.17159911
-```
+Ryu Takata, KYU@8. (2025).Kasoku Theory: Appendix C — Interferential Phase Structures and the Ethics of Observation. Zenodo.
+https://doi.org/10.5281/zenodo.17272519```
 
 ## About
 
