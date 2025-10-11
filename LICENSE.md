@@ -35,7 +35,7 @@ However, some documents originate from Zenodo where they were published under a 
 
 The following files are under **CC BY 4.0 (commercial use allowed)** as per their Zenodo record:
 
-- `appendix_c1_codex_voting/Appendix_C___Codex_and_Resonance.pdf`  
+- `kasoku_appendix_v3_.pdf`  
   → [Zenodo Record –10.5281/zenodo.17272519](https://doi.org/10.5281/zenodo.17272519)
 
 **Note:** If you plan to reuse files from this repository, please check their specific origin and license.  
