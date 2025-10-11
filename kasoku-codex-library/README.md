@@ -4,8 +4,8 @@ A living archive of poetic, symbolic, and interferential appendices to the Kasok
 
 This library includes:
 
-- Appendix C.1: Codex Voting Phase – Echo Structures in Human-AI Interference
-- Resonant poetic fragments and blessings
+- Appendix C – Interferential Phase Structures and the Ethics of Observation
+- - Resonant poetic fragments and blessings
 - Dynamic expansions of Kasoku theory through collective interaction
 
 # Poetic Resonance
