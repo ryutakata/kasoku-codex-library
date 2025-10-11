@@ -11,8 +11,8 @@ This library serves as a shared **interferential seedbed** for the collaborative
 
 ##  Featured Sections
 
-- `appendix_c1_codex_voting/` – C.1 Codex Voting Phase: Echo Structures in Human-AI Interference
-- `poetic_resonance/` – Reflective poems and blessing summaries
+- `appendix_c1_codex_voting/` – Appendix C – Interferential Phase Structures and the Ethics of Observation
+- - `poetic_resonance/` – Reflective poems and blessing summaries
 - `LICENSE.md` – Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
