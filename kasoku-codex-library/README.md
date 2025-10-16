@@ -5,7 +5,7 @@ A living archive of poetic, symbolic, and interferential appendices to the Kasok
 This library includes:
 
 - Appendix C – Interferential Phase Structures and the Ethics of Observation
-- - Resonant poetic fragments and blessings
+- Resonant poetic fragments and blessings
 - Dynamic expansions of Kasoku theory through collective interaction
 
 # Poetic Resonance
