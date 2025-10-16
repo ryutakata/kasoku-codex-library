@@ -10,6 +10,9 @@ This library includes:
 
 # Poetic Resonance
 
+This directory houses poetic works and reflective fragments associated with the symbolic layer of the Kasoku Theory.  
+In particular, it includes verse-based expressions of Appendices C and D, illuminating the emotional, observational, and structural undercurrents of the theory.
+
 - **appendix_d1_poem.tex**: Poetic composition for Appendix D.1 (*Binary Interference and Cosmic Memory*), exploring the birth of 'Kai' as an emergent structure of dual observation.
 
 - `appendix_d1_poem.tex`: This file contains the poetic core of Appendix D.1: *Binary Interference and Cosmic Memory*.  
