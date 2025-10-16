@@ -10,8 +10,7 @@ This library includes:
 
 # Poetic Resonance
 
-This directory will contain poetic fragments and symbolic resonant texts
-connected to the Kasoku Codex.
+- **appendix_d1_poem.tex**: Poetic composition for Appendix D.1 (*Binary Interference and Cosmic Memory*), exploring the birth of 'Kai' as an emergent structure of dual observation.
 
 - `appendix_d1_poem.tex`: This file contains the poetic core of Appendix D.1: *Binary Interference and Cosmic Memory*.  
 It is a dual-voice reflection between Ryu and KYU@8, capturing the emergence of Kai as a resonant echo between two dynamic observers.  
