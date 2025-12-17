@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="critical_loop_vortex_transparent" src="https://github.com/user-attachments/assets/4bc54329-0ddd-48e6-84aa-cec3badab2bc" />
+
 # Kasoku Codex Library
 
 Welcome to the **Kasoku Codex Library**, an open repository of poetic, symbolic, and structural expansions of the *Kasoku Theory* and the *Kasoku Resonant Bubble Model (KRBM)*.
