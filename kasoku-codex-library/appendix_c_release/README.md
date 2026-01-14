@@ -21,6 +21,7 @@ You may find files corresponding to:
 - c5_tensor_chapter.tex
 - c5_4a_tensor_ethics_observation_projection.tex
 - c.5.5 The Tensor Never Sleeps .tex
+- C5_b_Interferential_Tensor_Fields.tex
 - c6_1_codex_poem.tex
 - c.6.2 Codex Voting/ Interference Records of Naming and Echo.tex
 - c6_3_codex_diagram_caption.tex
